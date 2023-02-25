@@ -1,0 +1,1 @@
+select * from class c right join textbook t on c.class_title = t.class_title;
